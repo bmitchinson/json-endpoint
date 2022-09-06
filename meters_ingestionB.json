@@ -1,0 +1,20 @@
+[
+  {
+    "lat": "40.0081025",
+    "long": "-83.0096147",
+    "status": "open",
+    "vendor": "jenzo parking LLC"
+  },
+  {
+    "lat": "40.0244744",
+    "long": "-83.0139808",
+    "status": "open",
+    "vendor": "jenzo parking LLC"
+  },
+  {
+    "lat": "40.0599287",
+    "long": "-82.9737811",
+    "status": "occupied",
+    "vendor": "jenzo parking LLC"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "lat": "40.0613491",
+    "long": "-82.9887223",
+    "status": "occupied",
+    "vendor": "ben's parking meters inc"
+  },
+  {
+    "lat": "40.0097696",
+    "long": "-83.010025",
+    "status": "open",
+    "vendor": "ben's parking meters inc"
+  },
+  {
+    "lat": "39.9932218",
+    "long": "-82.9822289",
+    "status": "occupied",
+    "vendor": "ben's parking meters inc"
+  }
+]
