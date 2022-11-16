@@ -2,10 +2,10 @@
     "sub": {
         "path": [
             {
-                "name": "Fred - nested name json person 1"
+                "name": "Fred - nested_name.json"
             },
             {
-                "name": "Bob - nested name json person 2"
+                "name": "Bob - nested_name.json"
             }
         ]
     }
