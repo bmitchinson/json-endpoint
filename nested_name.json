@@ -1,0 +1,12 @@
+{
+    "sub": {
+        "path": [
+            {
+                "name": "Fred - nested name json person 1"
+            },
+            {
+                "name": "Bob - nested name json person 2"
+            }
+        ]
+    }
+}
