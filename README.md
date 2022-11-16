@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The following ingestion sources can all be ingested to a single dataset to demonstrate selectors. The schema of that dataset has one top level string attribute, called "name"
+The following ingestion sources can all be ingested to a single dataset to demonstrate selectors. The schema of that dataset has one top level string attribute, called "name".
 
 ## Ingestions
 
