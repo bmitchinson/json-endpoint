@@ -2,11 +2,11 @@
   <middle>
     <rows>
       <person>
-        <firstName>Susan</firstName>
+        <firstName>Susan - sample xml person 1</firstName>
         <pets></pets>
       </person>
       <person>
-        <firstName>John</firstName>
+        <firstName>John - sample xml person 2</firstName>
         <pets>
           <pet name="Simon"></pet>
           <pet name="Sally"></pet>
