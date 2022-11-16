@@ -6,6 +6,7 @@ The following ingestion sources can all be ingested to the this dataset definiti
 
 <details>
   <summary>Dataset</summary>
+  
   ```elixir
   %Andi.InputSchemas.Datasets.Dataset{
   __meta__: #Ecto.Schema.Metadata<:loaded, "datasets">,
